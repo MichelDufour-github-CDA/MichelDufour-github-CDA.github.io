@@ -1,5 +1,5 @@
 ![Logo](https://michel-dufour.fr/_img/logomd-cv.png)
-
+![](https://komarev.com/ghpvc/?username=MichelDufour-github-CDA&color=6357CB&style=for-the-badge)
 
 # Hey, My name is Michel Dufour
 
