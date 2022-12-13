@@ -2,11 +2,17 @@ a {
     color: #ccc;
     transition: all ease-in-out .2s;
 }
+
 a:hover {
     color: #fff;
 }
+
 .bi {
     fill: currentColor;
+}
+
+img {
+    float: left;
 }
 
 .nav-scroller {
@@ -26,9 +32,11 @@ a:hover {
     white-space: nowrap;
     -webkit-overflow-scrolling: touch;
 }
+
 .color-blue {
     color: #0dcaf0;
 }
+
 .color-pink {
     color: #fb5ee7;
 }
